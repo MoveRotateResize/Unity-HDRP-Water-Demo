@@ -2,7 +2,7 @@
 
 **Nothing Updated Yet. This is a Work in Progress
 
-This is my updated version of this amazing Unity Demo Scene. It show cases my assets
+This is my updated version of this amazing Unity Demo Scene. It showcases my  skills as an Envriomental/Tech Artist, as well as my assets that are available on the Unity Asset Store
 - I've redone the lighting and weather effects from scratch
   - This updated demo shows off...
     - Replaced all shaders with my own "Dynamic Shader- Rain/Wetness (avalible on the Unity Asset store)"
