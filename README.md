@@ -9,10 +9,11 @@ This is my updated version of this amazing Unity Demo Scene. It showcases my  sk
     - Added my Dynamic VFX- Rain
     - Added my Dynmaic Weather Weather Manager
     - Added my Dynmaic Day And Night Manager
+    - Added my Dynamic Rocks
     - Updated the terrain
     - Replaced trees with different ones
     - Added new plants
-    - Added my Dynamic Rocks
+    
 
 
 This HDRP project is a collection of scenes showcasing the use of the new water system in various scenarios.
@@ -55,9 +56,6 @@ In play mode a [3rd Person controller](https://assetstore.unity.com/packages/ess
 
 # Disclaimer
 
-This demo use Speedtree for some assets.
-
-The repo owners will not accept pull requests, GitHub review requests, or any other GitHub-hosted issue management requests.
 
 For more information about water in HDRP: 
 - [Documentation](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)
