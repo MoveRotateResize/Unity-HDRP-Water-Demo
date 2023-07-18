@@ -11,8 +11,7 @@ This HDRP project is a collection of scenes showcasing the use of the new water 
     - Added my Dynamic VFX- Rain
     - Added my Dynmaic Weather Weather Manager
     - Added my Dynmaic Day And Night Manager
-    - Added my Dynamic Rocks
-    - Added new plants
+    - Added my Dynamic Models- Rocks
     - Updated and expanded terrain
     - Replaced trees with new ones
     - Replaced grass wtih new ones
