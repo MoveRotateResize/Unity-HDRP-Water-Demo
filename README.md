@@ -5,14 +5,14 @@
 This is my updated version of this amazing Unity Demo Scene. It show cases my assets
 - I've redone the lighting and weather effects from scratch
   - This updated demo shows off...
-  - Replaced all shaders with my own "Dynamic Shader- Rain/Wetness (avalible on the Unity Asset store)"
-  - Added my Dynamic VFX- Rain
-  - Added my Dynmaic Weather Weather Manager
-  - Added my Dynmaic Day And Night Manager
-  - Updated the terrain
-  - Replaced trees with different ones
-  - Added new plants
-  - Added my Dynamic Rocks
+    - Replaced all shaders with my own "Dynamic Shader- Rain/Wetness (avalible on the Unity Asset store)"
+    - Added my Dynamic VFX- Rain
+    - Added my Dynmaic Weather Weather Manager
+    - Added my Dynmaic Day And Night Manager
+    - Updated the terrain
+    - Replaced trees with different ones
+    - Added new plants
+    - Added my Dynamic Rocks
 
 
 This HDRP project is a collection of scenes showcasing the use of the new water system in various scenarios.
