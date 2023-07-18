@@ -17,10 +17,6 @@ This is my updated version of this amazing Unity Demo Scene. It show cases my as
 
 This HDRP project is a collection of scenes showcasing the use of the new water system in various scenarios.
 
-You can clone the repository using tools like Git, Github Desktop, or Sourcetree.
-You can also download a zipped version using the green button on Github 
-
-
 3 scenarios are available in the project.
 
 # Island scene:
