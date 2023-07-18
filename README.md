@@ -29,18 +29,6 @@ This HDRP project is a collection of scenes showcasing the use of the new water 
 This scene use an infinite water surface to simulate the ocean. In addition, this scene uses water deformers and foam generators to improve the visual around the shoreline.
 There are also examples of how to use custom render textures to generate water deformers.
 
-In play mode a [3rd Person controller](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526)
-is used to visit the island. 
-
-Keybord controls:
-- W/Z or up arrow: forward
-- S or down arrow: backward
-- A/Q or left arrow: left
-- D or right arrow: right
-- Space: jump
-
-A game pad can be used too.
-
 # River scene Before:
 
 ![TheRiver](https://user-images.githubusercontent.com/40639410/227177740-6546e98a-47cc-45dc-8027-09d48f4dc02a.jpg)
